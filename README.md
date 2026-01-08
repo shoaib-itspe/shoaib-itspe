@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sheikh Mohd Shoaib</h1>
 <h3 align="center">I am an Computer Science Engineering student Working At ITSPE</h3>
-<img align = 'right'src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="300" alt="animated hello" </img>
+<!-- <img align = 'right'src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="300" alt="animated hello" </img> -->
 
 
 
